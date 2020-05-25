@@ -1,0 +1,6 @@
+C:\Users\afy36\Desktop\cmps 297R\BattleshipModellingPractice-master\BattleshipModellingPractice\bin\Debug\BattleshipModellingPractice.exe.config
+C:\Users\afy36\Desktop\cmps 297R\BattleshipModellingPractice-master\BattleshipModellingPractice\bin\Debug\BattleshipModellingPractice.exe
+C:\Users\afy36\Desktop\cmps 297R\BattleshipModellingPractice-master\BattleshipModellingPractice\bin\Debug\BattleshipModellingPractice.pdb
+C:\Users\afy36\Desktop\cmps 297R\BattleshipModellingPractice-master\BattleshipModellingPractice\obj\Debug\BattleshipModellingPractice.csprojAssemblyReference.cache
+C:\Users\afy36\Desktop\cmps 297R\BattleshipModellingPractice-master\BattleshipModellingPractice\obj\Debug\BattleshipModellingPractice.exe
+C:\Users\afy36\Desktop\cmps 297R\BattleshipModellingPractice-master\BattleshipModellingPractice\obj\Debug\BattleshipModellingPractice.pdb

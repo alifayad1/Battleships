@@ -1,0 +1,6 @@
+C:\Users\afy36\Desktop\cmps 297R\Battleship_ahf27_ymf04\Battleship_ahf27_ymf04\bin\Debug\BattleshipModellingPractice.exe.config
+C:\Users\afy36\Desktop\cmps 297R\Battleship_ahf27_ymf04\Battleship_ahf27_ymf04\bin\Debug\BattleshipModellingPractice.exe
+C:\Users\afy36\Desktop\cmps 297R\Battleship_ahf27_ymf04\Battleship_ahf27_ymf04\bin\Debug\BattleshipModellingPractice.pdb
+C:\Users\afy36\Desktop\cmps 297R\Battleship_ahf27_ymf04\Battleship_ahf27_ymf04\obj\Debug\Battleship_ahf27_ymf04.csprojAssemblyReference.cache
+C:\Users\afy36\Desktop\cmps 297R\Battleship_ahf27_ymf04\Battleship_ahf27_ymf04\obj\Debug\BattleshipModellingPractice.exe
+C:\Users\afy36\Desktop\cmps 297R\Battleship_ahf27_ymf04\Battleship_ahf27_ymf04\obj\Debug\BattleshipModellingPractice.pdb
